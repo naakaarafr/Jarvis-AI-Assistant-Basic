@@ -206,7 +206,7 @@ Feel free to contribute to this project! Areas for improvement:
 
 ## 📜 License
 
-This project is open source. Please ensure you comply with Google's Gemini AI terms of service when using the API.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
